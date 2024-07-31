@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BAFF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Data+Analyst;AI+%26+ML+Enthusiast;Computer+Science+Engineer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://your-image-url-here.com/your-profile-picture.jpg" alt="Manish Kumar Yadav" width="200" style="border-radius: 50%;" />
-</div>
 
 ## 🚀 About Me
 
